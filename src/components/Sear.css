@@ -1,0 +1,113 @@
+body{
+    background: lightcyan;
+}
+.toSmall{
+    font-stretch: wider;
+    color:#949494;
+    font-size: smaller;
+    font-family: 'Gill Sans', 'Gill Sans MT',' Calibri', 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+
+}
+.cont{
+    padding-left: 150px;
+    
+}
+
+.btn{
+    background: darkblue;
+    display: flex;
+    height: fit-content;
+    border-top-left-radius: 0%;
+    border-bottom-left-radius: 0%;
+    border: none;
+    width: 98px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: black;
+    color: #fdc407;
+    border: 10px;
+    border-color: black;
+}
+.Select{
+   border-width: 10px;
+    border-style: solid;
+}
+.displayContents{
+    border: none;
+    width: 1110px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.toBold{
+    font-weight:bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT',' Calibri', 'Trebuchet MS', sans-serif;
+    font-size:x-large;
+    display: grid;
+}
+.card{
+    align-self: center;
+    background: none;
+    border: none;
+    padding-top: 10px;
+}
+
+.Head{
+    padding-left: 15px;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT',' Calibri', 'Trebuchet MS', sans-serif;
+}
+
+.but{
+    border: none;
+    color: darkblue;
+    background: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  display: flex;
+}
+
+.bord{
+    border: 1px solid lightgray;
+    box-sizing: border-box;
+    margin-top: 5px;
+}
+.printButton{
+    padding-left: 750px;
+}
+.items{
+    padding-left: 9px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+.printNames{
+    width: 500px;
+}
+.fontHead{
+    margin-top: 10px;
+    font-weight:bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT',' Calibri', 'Trebuchet MS', sans-serif;
+}
+.fontdes{
+    font-size:smaller;
+    color:gray;
+    font-family: 'Gill Sans', 'Gill Sans MT',' Calibri', 'Trebuchet MS', sans-serif;
+}
+
+.but:hover{
+    
+    color:#fdc407;
+}
+.colWidth{
+    width: 200px;
+}
+.iconsi{
+    
+    width: 3px;
+}
+.iconUser{
+    width: 7px;
+}
