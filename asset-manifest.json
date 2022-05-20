@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Spottabl-FrontEnd/static/css/main.10290f75.css",
+    "main.js": "/Spottabl-FrontEnd/static/js/main.908e0f00.js",
+    "static/js/787.275d877c.chunk.js": "/Spottabl-FrontEnd/static/js/787.275d877c.chunk.js",
+    "index.html": "/Spottabl-FrontEnd/index.html",
+    "main.10290f75.css.map": "/Spottabl-FrontEnd/static/css/main.10290f75.css.map",
+    "main.908e0f00.js.map": "/Spottabl-FrontEnd/static/js/main.908e0f00.js.map",
+    "787.275d877c.chunk.js.map": "/Spottabl-FrontEnd/static/js/787.275d877c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10290f75.css",
+    "static/js/main.908e0f00.js"
+  ]
+}
